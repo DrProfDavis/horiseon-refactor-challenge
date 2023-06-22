@@ -1,4 +1,5 @@
-# horiseon-refactor-challenge
+## horiseon-refactor-challenge
+
 Module One Challenge
 
 ## Description
@@ -10,9 +11,8 @@ Module One Challenge
 
 ## Screenshot
 
-
+![Webpage titled "Student Bio" features "Your Name" heading, a spot for an image and bio, and a "Contact Info" section.](./assets/images/Screenshot.png)
 
 ## Credits
 
 Shawn Davis
-
